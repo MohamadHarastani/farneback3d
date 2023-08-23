@@ -1,4 +1,4 @@
 numpy
-pycuda
+pycuda==2020.1
 scipy
-
+setuptools==59.5.0
